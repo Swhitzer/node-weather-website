@@ -1,7 +1,3 @@
-console.log('Client side js file us loaded and i love Stella btw');
-
-
-
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
 const messageOne = document.querySelector('#message-1');
