@@ -29,7 +29,7 @@ app.get('', (req, res) => {
 app.get('/about', (req, res) => {
     res.render('about', {
         title: 'About',
-        message: 'Dog moment'
+        message: 'This perfect site was created by Swhit. It uses data from geoapify and weatherstack to get weather for your location!'
     })
 })
 
